@@ -21,6 +21,4 @@ En utilisant des fichiers markdown voici les choses à faire :
 
 * [le lapin] https://github.com/fatizahra13/hb-dwwm-2025-git-exo/blob/lapin/animal.md
 * ...
-
 * [le renard](https://github.com/fatizahra13/hb-dwwm-2025-git-exo/blob/renard/animal.md)
->>>>>>> 83802df6b5f2508f8974e87a7cfecc0813985416
