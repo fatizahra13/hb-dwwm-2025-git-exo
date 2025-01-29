@@ -13,14 +13,12 @@ En utilisant des fichiers markdown voici les choses à faire :
 
 ## Membres du groupe
 1. fati
-2. Membre 2
-<<<<<<< HEAD
-3. Imen
-=======
+2. Imen
 3. Médina
->>>>>>> 9a1664f311a9d601a4f7981194253689bfbc1297
+
 
 ## Liens vers les animaux
 
 * ...
 * ...
+* [le renard](https://github.com/fatizahra13/hb-dwwm-2025-git-exo/blob/renard/animal.md)
