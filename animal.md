@@ -1,11 +1,14 @@
-# Nom animal
+# LE LAPIN
 
 # Description : 
-Le mot lapin (/lapε̃/) est un terme très général qui désigne en français certains animaux lagomorphes à longues oreilles. On les différencie des lièvres par une silhouette moins élancée et par les petits qui naissent aveugles et nus, cachés dans un nid creusé au sol. Ces animaux ne correspondent donc pas à un niveau précis de classification scientifique. 
+Le mot lapin est un terme très général qui désigne en français certains animaux lagomorphes à longues oreilles. On les différencie des lièvres par une silhouette moins élancée et par les petits qui naissent aveugles et nus, cachés dans un nid creusé au sol. Ces animaux ne correspondent donc pas à un niveau précis de classification scientifique. 
 
-![image lapin](C:\Users\HB\Desktop\1951-lapinblanc-01.jpg)
+![image lapin](https://fr.pinterest.com/pin/276549233346856035/)
 
-Un sous titre "Caractéristique"
-Cette section contiendra une liste avec le régime alimentaire de l'animal, si c'est un animal domestique ou non, la zone géographique dans laquelle on le trouve.
+# Caractéristique"
+Les lapins font partie des animaux de compagnie les plus appréciés au monde. Cela n'a rien d'étonnant : ils sont tout simplement adorables avec leurs longues oreilles, leur pelage doux et leur regard attendrissant. En outre, ils ont la réputation d'être sociaux, faciles à entretenir et peu coûteux.Les lapins sont herbivores. À la maison, un lapin doit manger essentiellement : du foin : il doit représenter 80 % des apports alimentaires, être de bonne qualité, bien sec, de couleur verte et d'odeur agréable. Les foins de légumineuses (luzerne, trèfle) sont à éviter à cause de leur richesse excessive en calcium.
 
-Un sous titre "Sous espèces" avec une liste de nom d'animaux de sous espèce de cet animal
+# Sous espèces" 
+Le Lapin de garenne ou Lapin commun (Oryctolagus cuniculus)2,3 est une espèce de mammifères lagomorphes de la famille des Léporidés.
+
+Les populations sauvages sont communes en Europe, mais en déclin4, et l'espèce a été introduite en Australie en 1859 où elle est devenue invasive. 
