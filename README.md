@@ -13,8 +13,9 @@ En utilisant des fichiers markdown voici les choses à faire :
 
 ## Membres du groupe
 1. fati
-2. 
+2. Imen
 3. Médina
+
 
 ## Liens vers les animaux
 
