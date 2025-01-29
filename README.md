@@ -20,5 +20,5 @@ En utilisant des fichiers markdown voici les choses à faire :
 ## Liens vers les animaux
 
 * [le lapin](https://github.com/fatizahra13/hb-dwwm-2025-git-exo/blob/lapin/animal.md)
-* ...
+* [le chat](https://github.com/fatizahra13/hb-dwwm-2025-git-exo/blob/chat/animal.md)
 * [le renard](https://github.com/fatizahra13/hb-dwwm-2025-git-exo/blob/renard/animal.md)
