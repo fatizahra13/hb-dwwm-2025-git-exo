@@ -13,10 +13,12 @@ En utilisant des fichiers markdown voici les choses à faire :
 
 ## Membres du groupe
 1. fati
-2. Membre 2
-3. Imen
+2. Imen
+3. Médina
+
 
 ## Liens vers les animaux
 
+* [le lapin] https://github.com/fatizahra13/hb-dwwm-2025-git-exo/blob/lapin/animal.md
 * ...
-* [chat]https://github.com/fatizahra13/hb-dwwm-2025-git-exo/blob/chat/animal.md
+* ...
